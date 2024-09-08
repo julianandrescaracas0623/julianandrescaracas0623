@@ -29,6 +29,6 @@ Aunque todavía estoy aprendiendo, estoy emocionado de compartir mi viaje y cone
 ![](https://github-contributor-stats.vercel.app/api?username=julianandrescaracas0623&limit=5&theme=onestar&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=julianandrescaracas0623&icon=6&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=julianandrescaracas0623&label=Profile%20Views&color=12&icon=6&pretty=false)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
